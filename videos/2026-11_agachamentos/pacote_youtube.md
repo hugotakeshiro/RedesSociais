@@ -2,8 +2,8 @@
 
 - **Público-alvo:** consultoria online SuperaDOR (quem quer treinar com dor), com CTA secundário para avaliação presencial em Paulínia/SP
 - **Etapa do funil:** meio (educar e gerar confiança)
-- **Duração:** 4:09 · 1920×1080 · 29,97 fps · áudio normalizado em −14 LUFS
-- **Montagem:** abertura com o gancho (trecho da IMG_8815) → introdução e front squat (IMG_8814) → demonstração do front squat (IMG_8813, sem a conversa inicial) → back squat (IMG_8815) → goblet squat (IMG_8816) → tela de resumo → tela de CTA
+- **Duração:** 3:46 · 1920×1080 · 29,97 fps · áudio normalizado em −14 LUFS
+- **Montagem:** abertura com o gancho (trecho da IMG_8815) → introdução e front squat (IMG_8814) → back squat (IMG_8815) → goblet squat (IMG_8816) → tela de resumo → tela de CTA
 
 ## Título (opções)
 1. Dor na lombar ou no joelho? Escolha o agachamento certo (front, back ou goblet)
@@ -16,10 +16,10 @@ Mesma mecânica, mesma carga, exigências diferentes. Neste vídeo eu mostro 3 v
 ⏱️ Capítulos
 0:00 Dor na lombar ao agachar?
 0:27 Front squat: barra à frente
-1:22 Back squat: barra atrás
-2:04 Dor lombar × dor no joelho: como escolher
-2:46 Goblet squat: agachamento taça
-3:53 Resumo e próximos passos
+1:00 Back squat: barra atrás
+1:41 Dor lombar × dor no joelho: como escolher
+2:23 Goblet squat: agachamento taça
+3:31 Resumo e próximos passos
 
 💬 Comente AGACHAMENTO e conte onde dói que eu te oriento.
 💻 Treina com dor ou quer voltar ao treino com segurança? Consultoria online SuperaDOR: [LINK WHATSAPP/CONSULTORIA]
@@ -40,12 +40,12 @@ agachamento, front squat, back squat, goblet squat, agachamento taça, dor lomba
 ## Mapa de cortes curtos (9:16), tempos do vídeo final
 | # | Início | Fim | Duração | Gancho (0–3 s) | Ideia central | CTA |
 |---|---|---|---|---|---|---|
-| 1 | 2:04 | 2:21 | 17 s | "Dor na lombar? Talvez esse agachamento não seja pra hoje" | Escolher o exercício pelo dia e pela dor | Comente AGACHAMENTO |
+| 1 | 1:41 | 1:58 | 17 s | "Dor na lombar? Talvez esse agachamento não seja pra hoje" | Escolher o exercício pelo dia e pela dor | Comente AGACHAMENTO |
 | 2 | 0:27 | 0:54 | 27 s | "O agachamento que poupa a lombar" | Front squat: mais quadríceps e abdômen | Salve para o próximo treino de perna |
-| 3 | 1:16 | 1:53 | 37 s | "Por que o back squat pesa na lombar" | Inclinação do tronco, mais glúteo e lombar | Siga para a parte 2 |
-| 4 | 3:07 | 3:53 | 46 s | "Seu core aguenta este agachamento?" | Goblet: core, braço, ombro e consciência corporal | Consultoria SuperaDOR, link na bio |
+| 3 | 0:54 | 1:31 | 37 s | "Por que o back squat pesa na lombar" | Inclinação do tronco, mais glúteo e lombar | Siga para a parte 2 |
+| 4 | 2:44 | 3:30 | 46 s | "Seu core aguenta este agachamento?" | Goblet: core, braço, ombro e consciência corporal | Consultoria SuperaDOR, link na bio |
 
 ## Pontos para conferir antes de publicar
-1. **2:21 a 2:32 (dor no joelho):** a fala diz que o back squat "possa ser uma opção melhor" com dor no joelho e, logo depois, que você recomenda o front squat nesses casos. Gullett et al. (2009) mediram **mais** compressão no joelho no back squat. Vale cortar esse trecho ou regravar uma frase de ajuste.
-2. **"40 kg no goblet squat"** (2:56): confira se a carga do halter era essa mesmo.
+1. **1:58 a 2:10 (dor no joelho):** a fala diz que o back squat "possa ser uma opção melhor" com dor no joelho e, logo depois, que você recomenda o front squat nesses casos. Gullett et al. (2009) mediram **mais** compressão no joelho no back squat. Vale cortar esse trecho ou regravar uma frase de ajuste.
+2. **"40 kg no goblet squat"** (2:34): confira se a carga do halter era essa mesmo.
 3. As legendas foram transcritas automaticamente e corrigidas à mão; alguns trechos foram levemente limpos para leitura.
