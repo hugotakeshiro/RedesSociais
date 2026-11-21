@@ -12,7 +12,7 @@
 ## Descrição
 Operou o joelho, principalmente o ligamento cruzado anterior (LCA), e está voltando a treinar? A panturrilha tem relação direta com a estabilidade do joelho, e a escolha do exercício e do aparelho faz diferença, sobretudo na fase de ligamentização do enxerto.
 
-Neste vídeo eu explico:
+Eu sou o Hugo Takeshiro, fisioterapeuta e personal trainer. Neste vídeo eu explico:
 • por que o exercício de panturrilha influencia o joelho
 • o cuidado na seleção do aparelho, com ou sem cirurgia
 • por que fazer de forma unilateral ajuda a identificar diferença entre as pernas e reduzir compensações
@@ -37,7 +37,7 @@ Referências
 3. Grindem H, Snyder-Mackler L, Moksnes H, Engebretsen L, Risberg MA. Simple decision rules can reduce reinjury risk by 84% after ACL reconstruction: the Delaware-Oslo ACL cohort study. Br J Sports Med. 2016;50(13):804-808. doi:10.1136/bjsports-2016-096031
 
 ## Tags
-joelho, cirurgia de joelho, LCA, ligamento cruzado anterior, reconstrução do LCA, pós-operatório joelho, panturrilha, exercício de panturrilha, sóleo, gastrocnêmio, fisioterapia, reabilitação, treino unilateral, assimetria, Paulínia, Hugo Takeshiro, SuperaDOR
+joelho, cirurgia de joelho, LCA, ligamento cruzado anterior, reconstrução do LCA, pós-operatório joelho, panturrilha, exercício de panturrilha, sóleo, gastrocnêmio, fisioterapia, reabilitação, personal trainer, fisioterapeuta e personal trainer, treino unilateral, assimetria, Paulínia, Hugo Takeshiro, SuperaDOR
 
 ## Configurações de upload
 - Thumbnail: `thumbnail_YouTube.jpg`
